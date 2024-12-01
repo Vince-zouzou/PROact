@@ -12,20 +12,15 @@ Logics:
 
 Program structure:
 
-----> Front Page UI design
-
-  ----> Register Page
- 
-   ----> User information collection Page
-   ----> Data Upload Page
-    
-  ----> Login Page 
-  
-  ----> Main Page
-
-----> Back system
-
-  ----> Center Model Training 
-  ----> Local Model Enhance Training
-  ----> User interation functions
-  ----> Data storage Center
+|----> Front Page UI design
+|  |----> Register Page
+|  |  |----> User information collection Page
+|  |  |----> Data Upload Page
+|  |----> Login Page 
+|  |----> Main Page
+|
+|----> Back system
+|  |----> Center Model Training 
+|  |----> Local Model Enhance Training
+|  |----> User interation functions
+|  |----> Data storage Center

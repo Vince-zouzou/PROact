@@ -46,6 +46,5 @@ class UI:
     def render(self):
         pass
 
-if __main()__:
-    UI = UI()
+UI = UI()
 

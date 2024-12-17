@@ -1,0 +1,45 @@
+,0
+0,Name
+1,Number Sold
+2,Discount
+3,Price
+4,Month
+5,Day
+6,Weekday
+7,Is_Weekend
+8,Weather_Rainy
+9,Weather_Sunny
+10,Weather_Windy
+11,Event_Chinese New Year
+12,Event_Dragon Boat Festival
+13,Event_Lantern Festival
+14,Event_Lunar Ghost Festival
+15,Event_Valentine's Day
+16,Restaurant Type_Bakery
+17,Restaurant Type_Bar
+18,Restaurant Type_Bubble Tea Shop
+19,Restaurant Type_Buffet
+20,Restaurant Type_Caf茅
+21,Restaurant Type_Cantonese Fine Dining
+22,Restaurant Type_Casual Dining
+23,Restaurant Type_Cha Chaan Teng
+24,Restaurant Type_Congee and Noodle Eatery
+25,Restaurant Type_Dim Sum Restaurant
+26,Restaurant Type_Fast Food
+27,Restaurant Type_Fine Dining
+28,Restaurant Type_Food Truck
+29,Restaurant Type_Hot Pot Restaurant
+30,Restaurant Type_Noodle Shop
+31,Restaurant Type_Seafood Restaurant
+32,Restaurant Type_Seafood Stall
+33,Restaurant Type_Steakhouse
+34,Restaurant Type_Street Food Vendor
+35,Restaurant Address_Central
+36,Restaurant Address_Kowloon Bay
+37,Restaurant Address_Mong Kok
+38,Restaurant Address_Sha Tin
+39,Restaurant Address_Sham Shui Po
+40,Restaurant Address_Tsim Sha Tsui
+41,Restaurant Address_Tsuen Wan
+42,Restaurant Address_Wan Chai
+43,Restaurant Address_Yuen Long

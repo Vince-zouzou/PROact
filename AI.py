@@ -2,7 +2,7 @@ from openai import AzureOpenAI
 import streamlit as st
 
 class Talker:
-    def __init__(self, api_key = 'd4954786fb0f4a3e8a85fe828fc079bf', api_version="2023-05-15", azure_endpoint="https://hkust.azure-api.net"):
+    def __init__(self, api_key = '', api_version="2023-05-15", azure_endpoint="https://hkust.azure-api.net"):
         """
         Initialize the Talker with Azure OpenAI credentials.
         """

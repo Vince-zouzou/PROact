@@ -1,11 +1,6 @@
-scikit-learn
-pandas
-streamlit
-io
-time
-joblib
-os
-openai
-re
-html
-langchain
+scikit-learn==1.2.0   
+pandas==1.5.3         
+streamlit==1.20.0     
+joblib==1.3.2        
+openai       
+langchain==0.0.304    
